@@ -53,6 +53,4 @@ El proyecto está organizado en cuatro archivos principales dentro del directori
 
 ## Notas
 
-- La aplicación usa nombres en español para widgets y clases donde aplica, mejorando la legibilidad.
 - La altura debe ingresarse en metros (ej. 1.75 para 175 cm).
-- Para personalizaciones (estilos, validaciones adicionales, etc.), modifica los archivos correspondientes.
